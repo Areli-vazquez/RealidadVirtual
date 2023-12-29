@@ -1,0 +1,11 @@
+Using template 'D:/Program Files/Unity/2021.3.25f1/Editor/Data/PlaybackEngines/AndroidPlayer\Apk\UnityManifest.xml'
+
+supports-gl-texture elements added because:
+	TextureSupport was not set to generic
+android.hardware.touchscreen.multitouch, android.hardware.touchscreen.multitouch.distinct were enabled because:
+	UnityEngine.Input::GetTouch was present in:
+		Assembly-CSharp-FeaturesChecked.txt
+		Google.XR.Cardboard-FeaturesChecked.txt
+	UnityEngine.Input::get_touchCount was present in:
+		Assembly-CSharp-FeaturesChecked.txt
+		Google.XR.Cardboard-FeaturesChecked.txt
